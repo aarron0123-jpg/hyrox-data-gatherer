@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+pyrox-client
+pandas
